@@ -1,0 +1,34 @@
+body{
+    background-color: #96aabb;
+}
+h1 {
+    font-family:monospace;
+    background-color:#4a7db5;
+    color:#a8a5ac;
+    text-align:center;
+}
+ul {
+    margin-block-start: 23px;
+    margin-block-end: 23px;
+}
+
+nav ul li {
+width: 100%;
+display: inline;
+list-style: none; 
+    }
+
+    a {
+        position: relative;
+        font-family: monospace;
+        background-color:#4a7db5;
+        text-align:center;
+        color: #a8a5ac;
+        padding: 20px;
+        text-decoration: none;
+    }
+    p{
+        font-family:monospace;
+        color:white;
+        font-size: 150%;
+        }
