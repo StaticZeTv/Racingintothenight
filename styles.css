@@ -27,8 +27,25 @@ list-style: none;
         padding: 20px;
         text-decoration: none;
     }
-    p{
+ p{
+margin-top: 20px;
 font-family:monospace;
 color:white;
 font-size: 150%;
+}
+
+li{
+    display:block;
+    list-style: none;
+    font-family: monospace;
+    color: white;
+    text-decoration: none;
+    font-size: 125%;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    font-family: monospace;
+    color: #660405;
+    background-color: #c1c1c1;
 }
