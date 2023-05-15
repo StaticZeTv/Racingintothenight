@@ -10,6 +10,10 @@ h1 {
 ul {
     margin-block-start: 23px;
     margin-block-end: 23px;
+    text-align: center;
+}
+nav {
+    text-align: center;
 }
 
 nav ul li {
@@ -18,7 +22,7 @@ display: inline;
 list-style: none; 
     }
 
-    a {
+    #navigation {
         position: relative;
         font-family: monospace;
         background-color:#4a7db5;
@@ -32,6 +36,7 @@ margin-top: 20px;
 font-family:monospace;
 color:white;
 font-size: 150%;
+text-align: center;
 }
 
 li{
