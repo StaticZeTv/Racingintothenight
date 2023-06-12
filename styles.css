@@ -31,15 +31,16 @@ list-style: none;
         padding: 20px;
         text-decoration: none;
     }
-   .active
+   .active {
         position: relative;
         font-family: monospace;
-        background-color:#507fb2;
+        background-color:#568ac2;
         text-align:center;
         color: #a8a5ac;
         padding: 20px;
         text-decoration: none;
     }
+
 .navs:hover {
         position: relative;
         font-family: monospace;
